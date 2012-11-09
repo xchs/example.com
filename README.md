@@ -1,4 +1,4 @@
 example.com
 ===========
 
-Example website README.md file
+Example website: README.md file
